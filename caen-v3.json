@@ -1,0 +1,2606 @@
+[
+  {
+    "code": "0170",
+    "description": "V\u00e2n\u0103toare, capturarea cu capcane a v\u00e2natului \u015fi activit\u0103\u0163i de servicii anexe v\u00e2n\u0103torii"
+  },
+  {
+    "code": "0210",
+    "description": "Silvicultur\u0103 \u015fi alte activit\u0103\u0163i forestiere"
+  },
+  {
+    "code": "0220",
+    "description": "Exploatarea forestier\u0103"
+  },
+  {
+    "code": "0230",
+    "description": "Colectarea produselor forestiere nelemnoase din flora spontan\u0103"
+  },
+  {
+    "code": "0240",
+    "description": "Activit\u0103\u0163i de servicii anexe silviculturii"
+  },
+  {
+    "code": "0311",
+    "description": "Pescuitul maritim"
+  },
+  {
+    "code": "0312",
+    "description": "Pescuitul \u00een ape dulci"
+  },
+  {
+    "code": "0321",
+    "description": "Acvacultura maritim\u0103"
+  },
+  {
+    "code": "0322",
+    "description": "Acvacultura \u00een ape dulci"
+  },
+  {
+    "code": "0330",
+    "description": "Activit\u0103\u0163i anexe pescuitului \u015fi acvaculturii"
+  },
+  {
+    "code": "0510",
+    "description": "Extrac\u0163ia c\u0103rbunelui superior (PCS=>23865 kJ\/kg)"
+  },
+  {
+    "code": "0520",
+    "description": "Extrac\u0163ia c\u0103rbunelui inferior (PCS<23865 kJ\/kg)"
+  },
+  {
+    "code": "0610",
+    "description": "Extrac\u0163ia petrolului brut"
+  },
+  {
+    "code": "0620",
+    "description": "Extrac\u0163ia gazelor naturale"
+  },
+  {
+    "code": "0710",
+    "description": "Extrac\u0163ia minereurilor feroase"
+  },
+  {
+    "code": "0721",
+    "description": "Extrac\u0163ia minereurilor de uraniu \u015fi toriu"
+  },
+  {
+    "code": "0729",
+    "description": "Extrac\u0163ia altor minereuri metalifere neferoase"
+  },
+  {
+    "code": "0811",
+    "description": "Extrac\u0163ia pietrei ornamentale \u015fi a pietrei pentru construc\u0163ii, extrac\u0163ia pietrei calcaroase, ghipsului, cretei \u015fi a ardeziei"
+  },
+  {
+    "code": "0812",
+    "description": "Extrac\u0163ia pietri\u015fului \u015fi nisipului; extrac\u0163ia argilei \u015fi caolinului"
+  },
+  {
+    "code": "0891",
+    "description": "Extrac\u0163ia mineralelor pentru industria chimic\u0103 \u015fi a \u00eengr\u0103\u015f\u0103mintelor naturale"
+  },
+  {
+    "code": "0892",
+    "description": "Extrac\u0163ia turbei"
+  },
+  {
+    "code": "0893",
+    "description": "Extrac\u0163ia s\u0103rii"
+  },
+  {
+    "code": "0899",
+    "description": "Alte activit\u0103\u0163i extractive n.c.a."
+  },
+  {
+    "code": "0910",
+    "description": "Activit\u0103\u0163i de servicii anexe extrac\u0163iei petrolului brut \u015fi gazelor naturale"
+  },
+  {
+    "code": "0990",
+    "description": "Activit\u0103\u0163i de servicii anexe pentru extrac\u0163ia mineralelor"
+  },
+  {
+    "code": 1011,
+    "description": "Prelucrarea \u015fi conservarea c\u0103rnii"
+  },
+  {
+    "code": 1012,
+    "description": "Prelucrarea \u015fi conservarea c\u0103rnii de pas\u0103re"
+  },
+  {
+    "code": 1013,
+    "description": "Fabricarea produselor din carne (inclusiv din carne de pas\u0103re)"
+  },
+  {
+    "code": 1020,
+    "description": "Prelucrarea \u015fi conservarea pe\u015ftelui, crustaceelor \u015fi molu\u015ftelor"
+  },
+  {
+    "code": 1031,
+    "description": "Prelucrarea \u015fi conservarea cartofilor"
+  },
+  {
+    "code": 1032,
+    "description": "Fabricarea sucurilor de fructe \u015fi legume"
+  },
+  {
+    "code": 1039,
+    "description": "Prelucrarea \u015fi conservarea fructelor \u015fi legumelor n.c.a."
+  },
+  {
+    "code": 1041,
+    "description": "Fabricarea uleiurilor \u015fi gr\u0103similor"
+  },
+  {
+    "code": 1042,
+    "description": "Fabricarea margarinei \u015fi a altor produse comestibile similare"
+  },
+  {
+    "code": 1051,
+    "description": "Fabricarea produselor lactate \u015fi a br\u00e2nzeturilor"
+  },
+  {
+    "code": 1052,
+    "description": "Fabricarea \u00eenghe\u0163atei"
+  },
+  {
+    "code": 1061,
+    "description": "Fabricarea produselor de mor\u0103rit"
+  },
+  {
+    "code": 1062,
+    "description": "Fabricarea amidonului \u015fi a produselor din amidon"
+  },
+  {
+    "code": 1071,
+    "description": "Fabricarea p\u00e2inii; fabricarea pr\u0103jiturilor \u015fi a produselor proaspete de patiserie"
+  },
+  {
+    "code": 1072,
+    "description": "Fabricarea biscui\u0163ilor \u015fi pi\u015fcoturilor; fabricarea pr\u0103jiturilor \u015fi a produselor conservate de patiserie"
+  },
+  {
+    "code": 1073,
+    "description": "Fabricarea macaroanelor, t\u0103i\u0163eilor, cu\u015f-cu\u015f-ului \u015fi a altor produse f\u0103inoase similar"
+  },
+  {
+    "code": 1081,
+    "description": "Fabricarea zah\u0103rului"
+  },
+  {
+    "code": 1082,
+    "description": "Fabricarea produselor din cacao, a ciocolatei \u015fi a produselor zaharoase"
+  },
+  {
+    "code": 1083,
+    "description": "Prelucrarea ceaiului \u015fi cafelei"
+  },
+  {
+    "code": 1084,
+    "description": "Fabricarea condimentelor \u015fi ingredientelor"
+  },
+  {
+    "code": 1085,
+    "description": "Fabricarea de m\u00e2nc\u0103rururi preparate"
+  },
+  {
+    "code": 1086,
+    "description": "Fabricarea preparatelor alimentare omogenizate \u015fi alimentelor dietetice"
+  },
+  {
+    "code": 1089,
+    "description": "Fabricarea altor produse alimentare n.c.a."
+  },
+  {
+    "code": 1091,
+    "description": "Fabricarea preparatelor pentru hrana animalelor de ferm\u0103"
+  },
+  {
+    "code": 1092,
+    "description": "Fabricarea preparatelor pentru hrana animalelor de companie"
+  },
+  {
+    "code": 1101,
+    "description": "Distilarea, rafinarea \u015fi mixarea b\u0103uturilor alcoolice"
+  },
+  {
+    "code": 1102,
+    "description": "Fabricarea vinurilor din struguri"
+  },
+  {
+    "code": 1103,
+    "description": "Fabricarea cidrului \u015fi a altor vinuri din fructe"
+  },
+  {
+    "code": 1104,
+    "description": "Fabricarea altor b\u0103uturi nedistilate, ob\u0163inute prin fermentare"
+  },
+  {
+    "code": 1105,
+    "description": "Fabricarea berii"
+  },
+  {
+    "code": 1106,
+    "description": "Fabricarea mal\u0163ului"
+  },
+  {
+    "code": 1107,
+    "description": "Produc\u0163ia de b\u0103uturi r\u0103coritoare nealcoolice; produc\u0163ia de ape minerale \u015fi alte ape \u00eembuteliate"
+  },
+  {
+    "code": 1200,
+    "description": "Fabricarea produselor din tutun"
+  },
+  {
+    "code": 1310,
+    "description": "Preg\u0103tirea fibrelor \u015fi filarea fibrelor textile"
+  },
+  {
+    "code": 1320,
+    "description": "Produc\u0163ia de \u0163es\u0103turi"
+  },
+  {
+    "code": 1330,
+    "description": "Finisarea materialelor textile"
+  },
+  {
+    "code": 1391,
+    "description": "Fabricarea de metraje prin tricotare sau cro\u015fetare"
+  },
+  {
+    "code": 1392,
+    "description": "Fabricarea de articole confec\u021bionate din textile (excluz\u00e2nd \u00eembr\u0103c\u0103mintea \u0219i lenjeria de corp)"
+  },
+  {
+    "code": 1393,
+    "description": "Fabricarea de covoare \u015fi mochete"
+  },
+  {
+    "code": 1394,
+    "description": "Fabricarea de odgoane, fr\u00e2nghii, sfori \u015fi plase"
+  },
+  {
+    "code": 1395,
+    "description": "Fabricarea de textile ne\u0163esute \u015fi articole din acestea, cu excep\u0163ia confec\u0163iilor de \u00eembr\u0103c\u0103minte"
+  },
+  {
+    "code": 1396,
+    "description": "Fabricarea de articole tehnice \u015fi industriale din textile"
+  },
+  {
+    "code": 1399,
+    "description": "Fabricarea altor articole textile n.c.a."
+  },
+  {
+    "code": 1410,
+    "description": "Fabricarea articolelor de \u00eembr\u0103c\u0103minte prin tricotare sau cro\u015fetare"
+  },
+  {
+    "code": 1421,
+    "description": "Fabricarea articolelor de \u00eembr\u0103c\u0103minte"
+  },
+  {
+    "code": 1422,
+    "description": "Fabricarea de articole de lenjerie de corp"
+  },
+  {
+    "code": 1423,
+    "description": "Fabricarea de articole de \u00eembr\u0103c\u0103minte pentru lucru"
+  },
+  {
+    "code": 1424,
+    "description": "Fabricarea articolelor de \u00eembr\u0103c\u0103minte din piele \u0219i blan\u0103"
+  },
+  {
+    "code": 1429,
+    "description": "Fabricarea altor articole de \u00eembr\u0103c\u0103minte \u015fi accesorii n.c.a."
+  },
+  {
+    "code": 1511,
+    "description": "T\u0103b\u0103cirea \u015fi finisarea pieilor; prepararea \u015fi vopsirea bl\u0103nurilor"
+  },
+  {
+    "code": 1512,
+    "description": "Fabricarea articolelor de voiaj \u015fi marochin\u0103rie \u015fi a articolelor de harna\u015fament"
+  },
+  {
+    "code": 1520,
+    "description": "Fabricarea \u00eenc\u0103l\u0163\u0103mintei"
+  },
+  {
+    "code": 1611,
+    "description": "T\u0103ierea \u015fi rindeluirea lemnului"
+  },
+  {
+    "code": 1612,
+    "description": "Prelucrarea \u0219i finisarea lemnului"
+  },
+  {
+    "code": 1621,
+    "description": "Fabricarea de furnire \u015fi a panourilor din lemn"
+  },
+  {
+    "code": 1622,
+    "description": "Fabricarea parchetului asamblat \u00een panouri"
+  },
+  {
+    "code": 1623,
+    "description": "Fabricarea altor elemente de dulgherie \u015fi t\u00e2mpl\u0103rie, pentru construc\u0163ii"
+  },
+  {
+    "code": 1624,
+    "description": "Fabricarea ambalajelor din lemn"
+  },
+  {
+    "code": 1625,
+    "description": "Fabricarea de u\u0219i \u0219i ferestre din lemn"
+  },
+  {
+    "code": 1626,
+    "description": "Fabricarea de combustibili solizi din biomas\u0103 vegetal\u0103"
+  },
+  {
+    "code": 1627,
+    "description": "Finisarea articolelor din lemn"
+  },
+  {
+    "code": 1628,
+    "description": "Fabricarea altor produse din lemn; fabricarea articolelor din plut\u0103, paie \u015fi din alte materiale vegetale \u00eempletite"
+  },
+  {
+    "code": 1711,
+    "description": "Fabricarea celulozei"
+  },
+  {
+    "code": 1712,
+    "description": "Fabricarea h\u00e2rtiei \u015fi cartonului"
+  },
+  {
+    "code": 1721,
+    "description": "Fabricarea h\u00e2rtiei \u015fi cartonului ondulat \u015fi a ambalajelor din h\u00e2rtie \u015fi carton"
+  },
+  {
+    "code": 1722,
+    "description": "Fabricarea produselor de uz gospod\u0103resc \u015fi sanitar, din h\u00e2rtie sau carton"
+  },
+  {
+    "code": 1723,
+    "description": "Fabricarea articolelor de papet\u0103rie"
+  },
+  {
+    "code": 1724,
+    "description": "Fabricarea tapetului"
+  },
+  {
+    "code": 1725,
+    "description": "Fabricarea altor articole din h\u00e2rtie \u015fi carton n.c.a."
+  },
+  {
+    "code": 1811,
+    "description": "Tip\u0103rirea ziarelor"
+  },
+  {
+    "code": 1812,
+    "description": "Alte activit\u0103\u0163i de tip\u0103rire n.c.a."
+  },
+  {
+    "code": 1813,
+    "description": "Servicii preg\u0103titoare pentru pretip\u0103rire"
+  },
+  {
+    "code": 1814,
+    "description": "Leg\u0103torie \u015fi servicii conexe"
+  },
+  {
+    "code": 1820,
+    "description": "Reproducerea \u00eenregistr\u0103rilor"
+  },
+  {
+    "code": 1910,
+    "description": "Fabricarea produselor de cocserie"
+  },
+  {
+    "code": 1920,
+    "description": "Fabricarea produselor ob\u0163inute din prelucrarea \u0163i\u0163eiului"
+  },
+  {
+    "code": 2011,
+    "description": "Fabricarea gazelor industriale"
+  },
+  {
+    "code": 2012,
+    "description": "Fabricarea coloran\u0163ilor \u015fi a pigmen\u0163ilor"
+  },
+  {
+    "code": 2013,
+    "description": "Fabricarea altor produse chimice anorganice, de baz\u0103"
+  },
+  {
+    "code": 2014,
+    "description": "Fabricarea altor produse chimice organice, de baz\u0103"
+  },
+  {
+    "code": 2015,
+    "description": "Fabricarea \u00eengr\u0103\u015f\u0103mintelor \u015fi produselor azotoase"
+  },
+  {
+    "code": 2016,
+    "description": "Fabricarea materialelor plastice \u00een forme primare"
+  },
+  {
+    "code": 2017,
+    "description": "Fabricarea cauciucului sintetic \u00een forme primare"
+  },
+  {
+    "code": 2020,
+    "description": "Fabricarea pesticidelor \u015fi a altor produse agrochimice"
+  },
+  {
+    "code": 2030,
+    "description": "Fabricarea vopselelor, lacurilor, cernelii tipografice \u015fi masticurilor"
+  },
+  {
+    "code": 2041,
+    "description": "Fabricarea s\u0103punurilor, detergen\u0163ilor \u015fi a produselor de \u00eentre\u0163inere"
+  },
+  {
+    "code": 2042,
+    "description": "Fabricarea parfumurilor \u015fi a produselor cosmetice (de toalet\u0103)"
+  },
+  {
+    "code": 2051,
+    "description": "Fabricarea biocombustibililor lichizi"
+  },
+  {
+    "code": 2059,
+    "description": "Fabricarea altor produse chimice n.c.a."
+  },
+  {
+    "code": 2060,
+    "description": "Fabricarea fibrelor sintetice \u015fi artificiale"
+  },
+  {
+    "code": 2110,
+    "description": "Fabricarea produselor farmaceutice de baz\u0103"
+  },
+  {
+    "code": 2120,
+    "description": "Fabricarea preparatelor farmaceutice"
+  },
+  {
+    "code": 2211,
+    "description": "Fabricarea anvelopelor \u015fi a camerelor de aer; re\u015faparea \u015fi refacerea anvelopelor"
+  },
+  {
+    "code": 2212,
+    "description": "Fabricarea altor produse din cauciuc"
+  },
+  {
+    "code": 2221,
+    "description": "Fabricarea pl\u0103cilor, foliilor, tuburilor \u015fi profilelor din material plastic"
+  },
+  {
+    "code": 2222,
+    "description": "Fabricarea articolelor de ambalaj din material plastic"
+  },
+  {
+    "code": 2223,
+    "description": "Fabricarea de u\u0219i \u0219i ferestre din material plastic"
+  },
+  {
+    "code": 2224,
+    "description": "Fabricarea articolelor din material plastic pentru construc\u0163ii"
+  },
+  {
+    "code": 2225,
+    "description": "Prelucrarea \u0219i finisarea articolelor din material plastic"
+  },
+  {
+    "code": 2226,
+    "description": "Fabricarea altor produse din material plastic"
+  },
+  {
+    "code": 2311,
+    "description": "Fabricarea sticlei plate"
+  },
+  {
+    "code": 2312,
+    "description": "Prelucrarea \u015fi fasonarea sticlei plate"
+  },
+  {
+    "code": 2313,
+    "description": "Fabricarea articolelor din sticl\u0103"
+  },
+  {
+    "code": 2314,
+    "description": "Fabricarea fibrelor din sticl\u0103"
+  },
+  {
+    "code": 2315,
+    "description": "Fabricarea de sticl\u0103rie tehnic\u0103"
+  },
+  {
+    "code": 2320,
+    "description": "Fabricarea de produse refractare"
+  },
+  {
+    "code": 2331,
+    "description": "Fabricarea pl\u0103cilor \u015fi dalelor din ceramic\u0103"
+  },
+  {
+    "code": 2332,
+    "description": "Fabricarea c\u0103r\u0103mizilor, \u0163iglelor \u015fi altor produse pentru construc\u0163ii, din argil\u0103 ars\u0103"
+  },
+  {
+    "code": 2341,
+    "description": "Fabricarea articolelor ceramice pentru uz gospod\u0103resc \u015fi ornamental"
+  },
+  {
+    "code": 2342,
+    "description": "Fabricarea de obiecte sanitare din ceramic\u0103"
+  },
+  {
+    "code": 2343,
+    "description": "Fabricarea izolatorilor \u015fi pieselor izolante din ceramic\u0103"
+  },
+  {
+    "code": 2344,
+    "description": "Fabricarea altor produse tehnice din ceramic\u0103"
+  },
+  {
+    "code": 2345,
+    "description": "Fabricarea altor produse ceramice n.c.a."
+  },
+  {
+    "code": 2351,
+    "description": "Fabricarea cimentului"
+  },
+  {
+    "code": 2352,
+    "description": "Fabricarea varului \u015fi ipsosului"
+  },
+  {
+    "code": 2361,
+    "description": "Fabricarea produselor din beton pentru construc\u0163ii"
+  },
+  {
+    "code": 2362,
+    "description": "Fabricarea produselor din ipsos pentru construc\u0163ii"
+  },
+  {
+    "code": 2363,
+    "description": "Fabricarea betonului"
+  },
+  {
+    "code": 2364,
+    "description": "Fabricarea mortarului"
+  },
+  {
+    "code": 2365,
+    "description": "Fabricarea produselor din azbociment"
+  },
+  {
+    "code": 2366,
+    "description": "Fabricarea altor articole din beton, ciment \u015fi ipsos"
+  },
+  {
+    "code": 2370,
+    "description": "T\u0103ierea, fasonarea \u015fi finisarea pietrei"
+  },
+  {
+    "code": 2391,
+    "description": "Fabricarea de produse abrazive"
+  },
+  {
+    "code": 2399,
+    "description": "Fabricarea altor produse din minerale nemetalice, n.c.a."
+  },
+  {
+    "code": 2410,
+    "description": "Produc\u0163ia de metale feroase sub forme primare \u015fi de feroaliaje"
+  },
+  {
+    "code": 2420,
+    "description": "Produc\u0163ia de tuburi, \u0163evi, profile tubulare \u015fi accesorii pentru acestea, din o\u0163el"
+  },
+  {
+    "code": 2431,
+    "description": "Tragere la rece a barelor"
+  },
+  {
+    "code": 2432,
+    "description": "Laminare la rece a benzilor \u00eenguste"
+  },
+  {
+    "code": 2433,
+    "description": "Produc\u0163ia de profile ob\u0163inute la rece"
+  },
+  {
+    "code": 2434,
+    "description": "Trefilarea firelor la rece"
+  },
+  {
+    "code": 2441,
+    "description": "Produc\u0163ia metalelor pre\u0163ioase"
+  },
+  {
+    "code": 2442,
+    "description": "Metalurgia aluminiului"
+  },
+  {
+    "code": 2443,
+    "description": "Produc\u0163ia plumbului, zincului \u015fi cositorului"
+  },
+  {
+    "code": 2444,
+    "description": "Metalurgia cuprului"
+  },
+  {
+    "code": 2445,
+    "description": "Produc\u0163ia altor metale neferoase"
+  },
+  {
+    "code": 2446,
+    "description": "Prelucrarea combustibililor nucleari"
+  },
+  {
+    "code": 2451,
+    "description": "Turnarea fontei"
+  },
+  {
+    "code": 2452,
+    "description": "Turnarea o\u0163elului"
+  },
+  {
+    "code": 2453,
+    "description": "Turnarea metalelor neferoase u\u015foare"
+  },
+  {
+    "code": 2454,
+    "description": "Turnarea altor metale neferoase"
+  },
+  {
+    "code": 2511,
+    "description": "Fabricarea de construc\u0163ii metalice \u015fi p\u0103r\u0163i componente ale structurilor metalice"
+  },
+  {
+    "code": 2512,
+    "description": "Fabricarea de u\u015fi \u015fi ferestre din metal"
+  },
+  {
+    "code": 2521,
+    "description": "Produc\u0163ia de radiatoare \u015fi cazane pentru \u00eenc\u0103lzire central; produc\u021bia de generatoare de abur \u0219i boilere"
+  },
+  {
+    "code": 2522,
+    "description": "Produc\u0163ia de rezervoare, cisterne \u015fi containere metalice"
+  },
+  {
+    "code": 2530,
+    "description": "Fabricarea armamentului \u015fi muni\u0163iei"
+  },
+  {
+    "code": 2540,
+    "description": "Fabricarea produselor metalice ob\u0163inute prin deformare plastic\u0103; metalurgia pulberilor"
+  },
+  {
+    "code": 2551,
+    "description": "Acoperirea metalelor"
+  },
+  {
+    "code": 2552,
+    "description": "Tratamente termice ale metalelor"
+  },
+  {
+    "code": 2553,
+    "description": "Opera\u0163iuni de mecanic\u0103 general\u0103"
+  },
+  {
+    "code": 2561,
+    "description": "Fabricarea produselor de t\u0103iat"
+  },
+  {
+    "code": 2562,
+    "description": "Fabricarea articolelor de feronerie"
+  },
+  {
+    "code": 2563,
+    "description": "Fabricarea uneltelor"
+  },
+  {
+    "code": 2591,
+    "description": "Fabricarea de recipien\u0163i, containere \u015fi alte produse similare din o\u0163el"
+  },
+  {
+    "code": 2592,
+    "description": "Fabricarea ambalajelor metalice u\u015foare"
+  },
+  {
+    "code": 2593,
+    "description": "Fabricarea articolelor din fire metalice; fabricarea de lan\u0163uri \u015fi arcuri"
+  },
+  {
+    "code": 2594,
+    "description": "Fabricarea de \u015furuburi, buloane \u015fi alte articole filetate; fabricarea de nituri \u015fi \u015faibe"
+  },
+  {
+    "code": 2599,
+    "description": "Fabricarea altor articole din metal n.c.a."
+  },
+  {
+    "code": 2611,
+    "description": "Fabricarea componentelor electronice"
+  },
+  {
+    "code": 2612,
+    "description": "Fabricarea subansamblurilor electronice (module)"
+  },
+  {
+    "code": 2620,
+    "description": "Fabricarea calculatoarelor \u015fi a echipamentelor periferice"
+  },
+  {
+    "code": 2630,
+    "description": "Fabricarea echipamentelor de comunica\u0163ii"
+  },
+  {
+    "code": 2640,
+    "description": "Fabricarea produselor electronice de larg consum"
+  },
+  {
+    "code": 2651,
+    "description": "Fabricarea de instrumente \u015fi dispozitive pentru m\u0103sur\u0103, verificare, control, naviga\u0163ie"
+  },
+  {
+    "code": 2652,
+    "description": "Produc\u0163ia de ceasuri"
+  },
+  {
+    "code": 2660,
+    "description": "Fabricarea de echipamente pentru radiologie, electrodiagnostic \u015fi electroterapie"
+  },
+  {
+    "code": 2670,
+    "description": "Fabricarea de instrumente optice, supor\u021bi magnetici \u0219i optici; fabricarea de echipamente fotografice"
+  },
+  {
+    "code": 2711,
+    "description": "Fabricarea motoarelor, generatoarelor \u015fi transformatoarelor electrice"
+  },
+  {
+    "code": 2712,
+    "description": "Fabricarea aparatelor de distribu\u0163ie \u015fi control a electricit\u0103\u0163ii"
+  },
+  {
+    "code": 2720,
+    "description": "Fabricarea de acumulatori \u015fi baterii"
+  },
+  {
+    "code": 2731,
+    "description": "Fabricarea de cabluri cu fibr\u0103 optic\u0103"
+  },
+  {
+    "code": 2732,
+    "description": "Fabricarea altor fire \u015fi cabluri electrice \u015fi electronice"
+  },
+  {
+    "code": 2733,
+    "description": "Fabricarea dispozitivelor de conexiune pentru fire \u015fi cabluri electrice \u015fi electronice"
+  },
+  {
+    "code": 2740,
+    "description": "Fabricarea de echipamente electrice de iluminat"
+  },
+  {
+    "code": 2751,
+    "description": "Fabricarea de aparate electrocasnice"
+  },
+  {
+    "code": 2752,
+    "description": "Fabricarea de echipamente casnice neelectrice"
+  },
+  {
+    "code": 2790,
+    "description": "Fabricarea altor echipamente electrice"
+  },
+  {
+    "code": 2811,
+    "description": "Fabricarea de motoare \u015fi turbine (cu excep\u0163ia celor pentru avioane, autovehicule   \u015fi motociclete.)"
+  },
+  {
+    "code": 2812,
+    "description": "Fabricarea de motoare hidraulice"
+  },
+  {
+    "code": 2813,
+    "description": "Fabricarea de pompe \u015fi compresoare"
+  },
+  {
+    "code": 2814,
+    "description": "Fabricarea de articole de robinet\u0103rie"
+  },
+  {
+    "code": 2815,
+    "description": "Fabricarea lag\u0103relor, angrenajelor, cutiilor de vitez\u0103 \u015fi a elementelor mecanice de transmisie"
+  },
+  {
+    "code": 2821,
+    "description": "Fabricarea cuptoarelor, furnalelor \u015fi arz\u0103toarelor"
+  },
+  {
+    "code": 2822,
+    "description": "Fabricarea echipamentelor de ridicat \u015fi manipulat"
+  },
+  {
+    "code": 2823,
+    "description": "Fabricarea ma\u015finilor \u015fi echipamentelor de birou (except\u00e2nd fabricarea calculatoarelor \u015fi a echipamentelor periferice)"
+  },
+  {
+    "code": 2824,
+    "description": "Fabricarea ma\u015finilor-unelte portabile ac\u0163ionate electric"
+  },
+  {
+    "code": 2825,
+    "description": "Fabricarea echipamentelor de ventila\u0163ie \u015fi frigorifice, except\u00e2nd echipamentele de uz casnic"
+  },
+  {
+    "code": 2829,
+    "description": "Fabricarea altor ma\u015fini \u015fi utilaje de utilizare general\u0103 n.c.a."
+  },
+  {
+    "code": 2830,
+    "description": "Fabricarea masinilor \u015fi utilajelor pentru agricultur\u0103 \u015fi exploat\u0103ri forestiere"
+  },
+  {
+    "code": 2841,
+    "description": "Fabricarea utilajelor \u015fi a ma\u015finilor-unelte pentru prelucrarea metalului"
+  },
+  {
+    "code": 2842,
+    "description": "Fabricarea altor ma\u015fini-unelte n.c.a."
+  },
+  {
+    "code": 2891,
+    "description": "Fabricarea utilajelor pentru metalurgie"
+  },
+  {
+    "code": 2892,
+    "description": "Fabricarea utilajelor pentru extrac\u0163ie \u015fi construc\u0163ii"
+  },
+  {
+    "code": 2893,
+    "description": "Fabricarea utilajelor pentru prelucrarea produselor alimentare, b\u0103uturilor \u015fi tutunului"
+  },
+  {
+    "code": 2894,
+    "description": "Fabricarea utilajelor pentru industria textil\u0103, a \u00eembr\u0103c\u0103mintei \u015fi a piel\u0103riei"
+  },
+  {
+    "code": 2895,
+    "description": "Fabricarea utilajelor pentru industria h\u00e2rtiei \u015fi cartonului"
+  },
+  {
+    "code": 2896,
+    "description": "Fabricarea utilajelor pentru prelucrarea maselor plastice \u015fi a cauciucului"
+  },
+  {
+    "code": 2897,
+    "description": "Fabricarea ma\u0219inilor \u0219i utilajelor pentru fabrica\u021bia aditiv\u0103 (care utilizeaz\u0103 tehnologia de fabrica\u021bie aditiv\u0103)"
+  },
+  {
+    "code": 2899,
+    "description": "Fabricarea altor ma\u015fini \u015fi utilaje specifice n.c.a."
+  },
+  {
+    "code": 2910,
+    "description": "Fabricarea autovehiculelor de transport rutier"
+  },
+  {
+    "code": 2920,
+    "description": "Produc\u0163ia de caroserii pentru autovehicule; fabricarea de remorci \u015fi semiremorci"
+  },
+  {
+    "code": 2931,
+    "description": "Fabricarea de echipamente electrice \u015fi electronice pentru autovehicule \u015fi pentru motoare de autovehicule"
+  },
+  {
+    "code": 2932,
+    "description": "Fabricarea altor piese \u015fi accesorii pentru autovehicule \u015fi pentru motoare de autovehicule"
+  },
+  {
+    "code": 3011,
+    "description": "Construc\u0163ia de nave civile \u015fi structuri plutitoare"
+  },
+  {
+    "code": 3012,
+    "description": "Construc\u0163ia de ambarca\u0163iuni sportive \u015fi de agrement"
+  },
+  {
+    "code": 3013,
+    "description": "Construc\u0163ia de nave \u0219i vase militare"
+  },
+  {
+    "code": 3020,
+    "description": "Fabricarea materialului rulant"
+  },
+  {
+    "code": 3031,
+    "description": "Fabricarea de aeronave \u015fi nave spa\u0163iale, civile"
+  },
+  {
+    "code": 3032,
+    "description": "Fabricarea de aeronave \u015fi nave spa\u0163iale, militare"
+  },
+  {
+    "code": 3040,
+    "description": "Fabricarea vehiculelor militare de lupt\u0103"
+  },
+  {
+    "code": 3091,
+    "description": "Fabricarea de motociclete"
+  },
+  {
+    "code": 3092,
+    "description": "Fabricarea de biciclete \u015fi de de vehicule pentru invalizi"
+  },
+  {
+    "code": 3099,
+    "description": "Fabricarea altor mijloace de transport n.c.a."
+  },
+  {
+    "code": 3100,
+    "description": "Fabricarea de mobil\u0103"
+  },
+  {
+    "code": 3211,
+    "description": "Baterea monedelor"
+  },
+  {
+    "code": 3212,
+    "description": "Fabricarea bijuteriilor \u015fi articolelor similare din metale \u015fi pietre pre\u0163ioase"
+  },
+  {
+    "code": 3213,
+    "description": "Fabricarea imita\u0163iilor de bijuterii \u015fi articole similare"
+  },
+  {
+    "code": 3220,
+    "description": "Fabricarea instrumentelor muzicale"
+  },
+  {
+    "code": 3230,
+    "description": "Fabricarea articolelor pentru sport"
+  },
+  {
+    "code": 3240,
+    "description": "Fabricarea jocurilor \u015fi juc\u0103riilor"
+  },
+  {
+    "code": 3250,
+    "description": "Fabricarea de dispozitive, aparate \u015fi instrumente medicale stomatologice"
+  },
+  {
+    "code": 3291,
+    "description": "Fabricarea m\u0103turilor \u015fi periilor"
+  },
+  {
+    "code": 3299,
+    "description": "Fabricarea altor produse manufacturiere n.c.a."
+  },
+  {
+    "code": 3311,
+    "description": "Repararea \u0219i \u00eentre\u021binerea articolelor fabricate din metal"
+  },
+  {
+    "code": 3312,
+    "description": "Repararea \u0219i \u00eentre\u021binerea ma\u015finilor"
+  },
+  {
+    "code": 3313,
+    "description": "Repararea \u0219i \u00eentre\u021binerea echipamentelor electronice \u015fi optice"
+  },
+  {
+    "code": 3314,
+    "description": "Repararea \u0219i \u00eentre\u021binerea echipamentelor electrice"
+  },
+  {
+    "code": 3315,
+    "description": "Repararea \u015fi \u00eentre\u0163inerea navelor \u015fi b\u0103rcilor, civile"
+  },
+  {
+    "code": 3316,
+    "description": "Repararea \u015fi \u00eentre\u0163inerea aeronavelor \u015fi navelor spa\u0163iale, civile"
+  },
+  {
+    "code": 3317,
+    "description": "Repararea \u015fi \u00eentre\u0163inerea altor echipamente civile de transport n.c.a."
+  },
+  {
+    "code": 3318,
+    "description": "Repararea \u015fi \u00eentre\u0163inerea vehiculelor militare de lupt\u0103, a navelor, vaselor, aeronavelor \u015fi navelor spa\u0163iale, militare"
+  },
+  {
+    "code": 3319,
+    "description": "Repararea \u0219i \u00eentre\u021binerea altor echipamente"
+  },
+  {
+    "code": 3320,
+    "description": "Instalarea ma\u015finilor \u015fi echipamentelor industriale"
+  },
+  {
+    "code": 3511,
+    "description": "Produc\u0163ia de energie electric\u0103 din resurse neregenerabile"
+  },
+  {
+    "code": 3512,
+    "description": "Produc\u0163ia de energie electric\u0103 din resurse regenerabile"
+  },
+  {
+    "code": 3513,
+    "description": "Transportul energiei electrice"
+  },
+  {
+    "code": 3514,
+    "description": "Distribu\u0163ia energiei electrice"
+  },
+  {
+    "code": 3515,
+    "description": "Comercializarea energiei electrice"
+  },
+  {
+    "code": 3516,
+    "description": "Depozitarea energiei electrice"
+  },
+  {
+    "code": 3521,
+    "description": "Produc\u0163ia gazelor"
+  },
+  {
+    "code": 3522,
+    "description": "Distribu\u0163ia combustibililor gazo\u015fi, prin conducte"
+  },
+  {
+    "code": 3523,
+    "description": "Comercializarea combustibililor gazo\u015fi, prin conducte"
+  },
+  {
+    "code": 3524,
+    "description": "Depozitarea gazelor, ca parte a serviciilor de furnizare"
+  },
+  {
+    "code": 3530,
+    "description": "Furnizarea de abur \u015fi aer condi\u0163ionat"
+  },
+  {
+    "code": 3540,
+    "description": "Activit\u0103\u021bi ale agen\u021bilor \u0219i brokerilor din domeniul energiei electrice \u0219i a gazelor naturale"
+  },
+  {
+    "code": 3600,
+    "description": "Captarea, tratarea \u015fi distribu\u0163ia apei"
+  },
+  {
+    "code": 3700,
+    "description": "Colectarea \u015fi epurarea apelor uzate"
+  },
+  {
+    "code": 3811,
+    "description": "Colectarea de\u015feurilor nepericuloase"
+  },
+  {
+    "code": 3812,
+    "description": "Colectarea de\u015feurilor periculoase"
+  },
+  {
+    "code": 3821,
+    "description": "Recuperarea materialelor reciclabile"
+  },
+  {
+    "code": 3822,
+    "description": "Produc\u021bia de energie (electric\u0103 sau termic\u0103) prin tratarea de\u0219eurilor (inclusiv prin incinerare)"
+  },
+  {
+    "code": 3823,
+    "description": "Alte activit\u0103\u021bi de tartare a de\u0219eurilor"
+  },
+  {
+    "code": 3831,
+    "description": "Incinerarea de\u0219eurilor f\u0103r\u0103 produc\u021bie de energie"
+  },
+  {
+    "code": 3832,
+    "description": "Activit\u0103\u021bi ale gropilor de gunoi sau a depozitelor permanente de de\u0219euri"
+  },
+  {
+    "code": 3833,
+    "description": "Alte activit\u0103\u021bi de eliminare a de\u0219eurilor"
+  },
+  {
+    "code": 3900,
+    "description": "Activit\u0103\u0163i \u015fi servicii de decontaminare"
+  },
+  {
+    "code": 4100,
+    "description": "Lucr\u0103ri de construc\u0163ii a cl\u0103dirilor reziden\u0163iale \u015fi nereziden\u0163iale"
+  },
+  {
+    "code": 4211,
+    "description": "Lucr\u0103ri de construc\u0163ii a drumurilor \u015fi autostr\u0103zilor"
+  },
+  {
+    "code": 4212,
+    "description": "Lucr\u0103ri de construc\u0163ii a c\u0103ilor ferate de suprafa\u0163\u0103 \u015fi subterane."
+  },
+  {
+    "code": 4213,
+    "description": "Construc\u0163ia de poduri \u015fi tuneluri"
+  },
+  {
+    "code": 4221,
+    "description": "Lucr\u0103ri de construc\u0163ii a proiectelor utilitare pentru fluide"
+  },
+  {
+    "code": 4222,
+    "description": "Lucr\u0103ri de construc\u0163ii a proiectelor utilitare pentru electricitate \u015fi telecomunica\u0163ii"
+  },
+  {
+    "code": 4291,
+    "description": "Construc\u0163ii hidrotehnice"
+  },
+  {
+    "code": 4299,
+    "description": "Lucr\u0103ri de construc\u0163ii a altor proiecte inginere\u015fti n.c.a."
+  },
+  {
+    "code": 4311,
+    "description": "Lucr\u0103ri de demolare a construc\u0163iilor"
+  },
+  {
+    "code": 4312,
+    "description": "Lucr\u0103ri de preg\u0103tire a terenului"
+  },
+  {
+    "code": 4313,
+    "description": "Lucr\u0103ri de foraj \u015fi sondaj pentru construc\u0163ii"
+  },
+  {
+    "code": 4321,
+    "description": "Lucr\u0103ri de instala\u0163ii electrice"
+  },
+  {
+    "code": 4322,
+    "description": "Lucr\u0103ri de instala\u0163ii sanitare, de \u00eenc\u0103lzire \u015fi de aer condi\u0163ionat"
+  },
+  {
+    "code": 4323,
+    "description": "Lucr\u0103ri de izola\u021bii"
+  },
+  {
+    "code": 4324,
+    "description": "Alte lucr\u0103ri de instala\u0163ii pentru construc\u0163ii"
+  },
+  {
+    "code": 4331,
+    "description": "Lucr\u0103ri de ipsoserie"
+  },
+  {
+    "code": 4332,
+    "description": "Lucr\u0103ri de t\u00e2mpl\u0103rie \u015fi dulgherie"
+  },
+  {
+    "code": 4333,
+    "description": "Lucr\u0103ri de pardosire \u015fi placare a pere\u0163ilor"
+  },
+  {
+    "code": 4334,
+    "description": "Lucr\u0103ri de vopsitorie, zugr\u0103veli \u015fi mont\u0103ri de geamuri"
+  },
+  {
+    "code": 4335,
+    "description": "Alte lucr\u0103ri de finisare"
+  },
+  {
+    "code": 4341,
+    "description": "Lucr\u0103ri de \u00eenvelitori, \u015farpante \u015fi terase la construc\u0163ii"
+  },
+  {
+    "code": 4342,
+    "description": "Alte lucr\u0103ri speciale de construc\u0163ii pentru cl\u0103diri"
+  },
+  {
+    "code": 4350,
+    "description": "Lucr\u0103ri speciale de construc\u0163ii pentru proiecte de geniu civil"
+  },
+  {
+    "code": 4360,
+    "description": "Servicii de intermediere pentru lucr\u0103ri speciale de construc\u0163ii"
+  },
+  {
+    "code": 4391,
+    "description": "Activit\u0103\u021bi de zid\u0103rie"
+  },
+  {
+    "code": 4399,
+    "description": "Alte lucr\u0103ri speciale de construc\u021bii n.c.a."
+  },
+  {
+    "code": 4611,
+    "description": "Intermedieri \u00een comer\u0163ul cu materii prime agricole, animale vii, materii prime textile \u015fi cu semifabricate"
+  },
+  {
+    "code": 4612,
+    "description": "Intermedieri \u00een comer\u0163ul cu combustibili, minereuri, metale \u015fi produse chimice pentru industrie"
+  },
+  {
+    "code": 4613,
+    "description": "Intermedieri \u00een comer\u0163ul cu material lemnos \u015fi materiale de construc\u0163ii"
+  },
+  {
+    "code": 4614,
+    "description": "Intermedieri \u00een comer\u0163ul cu ma\u015fini, echipamente industriale, nave \u015fi avioane"
+  },
+  {
+    "code": 4615,
+    "description": "Intermedieri \u00een comer\u0163ul cu mobil\u0103, articole de menaj \u015fi de fier\u0103rie"
+  },
+  {
+    "code": 4616,
+    "description": "Intermedieri \u00een comer\u0163ul cu textile, confec\u0163ii din blan\u0103, \u00eenc\u0103l\u0163\u0103minte \u015fi articole din piele"
+  },
+  {
+    "code": 4617,
+    "description": "Intermedieri \u00een comer\u0163ul cu produse alimentare, b\u0103uturi \u015fi tutun"
+  },
+  {
+    "code": 4618,
+    "description": "Intermedieri \u00een comer\u0163ul specializat \u00een v\u00e2nzarea produselor cu caracter specific, n.c.a."
+  },
+  {
+    "code": 4619,
+    "description": "Intermedieri \u00een comer\u0163ul cu produse diverse"
+  },
+  {
+    "code": 4621,
+    "description": "Comer\u0163 cu ridicata al cerealelor, semin\u0163elor, furajelor \u015fi tutunului neprelucrat"
+  },
+  {
+    "code": 4622,
+    "description": "Comer\u0163 cu ridicata al florilor \u015fi al plantelor"
+  },
+  {
+    "code": 4623,
+    "description": "Comer\u0163 cu ridicata al animalelor vii"
+  },
+  {
+    "code": 4624,
+    "description": "Comer\u0163 cu ridicata al bl\u0103nurilor, pieilor brute \u015fi al pieilor prelucrate"
+  },
+  {
+    "code": 4631,
+    "description": "Comer\u0163 cu ridicata al fructelor \u015fi legumelor"
+  },
+  {
+    "code": 4632,
+    "description": "Comer\u0163 cu ridicata al c\u0103rnii \u015fi produselor din carne, pe\u015fte \u015fi produse din pe\u0219te, crustacee \u015fi molu\u015fte"
+  },
+  {
+    "code": 4633,
+    "description": "Comer\u0163 cu ridicata al produselor lactate, ou\u0103lor, uleiurilor \u015fi gr\u0103similor comestibile"
+  },
+  {
+    "code": 4634,
+    "description": "Comer\u0163 cu ridicata al b\u0103uturilor"
+  },
+  {
+    "code": 4635,
+    "description": "Comer\u0163 cu ridicata al produselor din tutun"
+  },
+  {
+    "code": 4636,
+    "description": "Comer\u0163 cu ridicata al zah\u0103rului, ciocolatei \u015fi produselor zaharoase"
+  },
+  {
+    "code": 4637,
+    "description": "Comer\u0163 cu ridicata cu cafea, ceai, cacao \u015fi condimente"
+  },
+  {
+    "code": 4638,
+    "description": "Comer\u0163 cu ridicata specializat al altor alimente"
+  },
+  {
+    "code": 4639,
+    "description": "Comer\u0163 cu ridicata nespecializat de produse alimentare, b\u0103uturi \u015fi tutun"
+  },
+  {
+    "code": 4641,
+    "description": "Comer\u0163 cu ridicata al produselor textile"
+  },
+  {
+    "code": 4642,
+    "description": "Comer\u0163 cu ridicata al \u00eembr\u0103c\u0103mintei \u015fi \u00eenc\u0103l\u0163\u0103mintei"
+  },
+  {
+    "code": 4643,
+    "description": "Comer\u0163 cu ridicata al aparatelor electrice de uz gospod\u0103resc, al aparatelor de radio \u015fi televizoarelor"
+  },
+  {
+    "code": 4644,
+    "description": "Comer\u0163 cu ridicata al produselor din ceramic\u0103, sticl\u0103rie, \u015fi produse de \u00eentre\u0163inere"
+  },
+  {
+    "code": 4645,
+    "description": "Comer\u0163 cu ridicata al produselor cosmetice \u015fi de parfumerie"
+  },
+  {
+    "code": 4646,
+    "description": "Comer\u0163 cu ridicata al produselor farmaceutice \u0219i medicale"
+  },
+  {
+    "code": 4647,
+    "description": "Comer\u0163 cu ridicata al mobilei (inclusiv de birou \u0219i pentru magazine), covoarelor \u015fi a articolelor de iluminat"
+  },
+  {
+    "code": 4648,
+    "description": "Comer\u0163 cu ridicata al ceasurilor \u015fi bijuteriilor"
+  },
+  {
+    "code": 4649,
+    "description": "Comer\u0163 cu ridicata al altor bunuri de uz gospod\u0103resc"
+  },
+  {
+    "code": 4650,
+    "description": "Comer\u0163 cu ridicata al echipamentului informatic \u015fi de telecomunica\u0163ii"
+  },
+  {
+    "code": 4661,
+    "description": "Comer\u0163 cu ridicata al ma\u015finilor agricole, echipamentelor \u015fi furniturilor"
+  },
+  {
+    "code": 4662,
+    "description": "Comer\u0163 cu ridicata al ma\u015finilor-unelte"
+  },
+  {
+    "code": 4663,
+    "description": "Comer\u0163 cu ridicata al ma\u015finilor pentru industria minier\u0103 \u015fi construc\u0163ii"
+  },
+  {
+    "code": 4664,
+    "description": "Comer\u0163 cu ridicata al altor ma\u015fini \u015fi echipamente"
+  },
+  {
+    "code": 4671,
+    "description": "Comer\u0163 cu ridicata al autovehiculelor"
+  },
+  {
+    "code": 4672,
+    "description": "Comer\u0163 cu ridicata al pieselor \u015fi accesoriilor pentru autovehicule"
+  },
+  {
+    "code": 4673,
+    "description": "Comer\u0163 cu ridicata al motocicletelor; comer\u021b cu ridicata al pieselor \u015fi accesoriilor pentru motociclete"
+  },
+  {
+    "code": 4681,
+    "description": "Comer\u0163 cu ridicata al combustibililor solizi, lichizi \u015fi gazo\u015fi \u015fi al produselor derivate"
+  },
+  {
+    "code": 4682,
+    "description": "Comer\u0163 cu ridicata al metalelor \u015fi minereurilor metalice"
+  },
+  {
+    "code": 4683,
+    "description": "Comer\u0163 cu ridicata al materialului lemnos \u015fi a materialelor de construc\u0163ie \u015fi echipamentelor sanitare"
+  },
+  {
+    "code": 4684,
+    "description": "Comer\u0163 cu ridicata al echipamentelor \u015fi furniturilor de fier\u0103rie pentru instala\u0163ii sanitare \u015fi de \u00eenc\u0103lzire"
+  },
+  {
+    "code": 4685,
+    "description": "Comer\u0163 cu ridicata al produselor chimice"
+  },
+  {
+    "code": 4686,
+    "description": "Comer\u0163 cu ridicata al altor produse intermediare"
+  },
+  {
+    "code": 4687,
+    "description": "Comer\u0163 cu ridicata al de\u015feurilor \u015fi resturilor"
+  },
+  {
+    "code": 4689,
+    "description": "Comer\u0163 cu ridicata specializat al altor produse n.c.a."
+  },
+  {
+    "code": 4690,
+    "description": "Comer\u0163 cu ridicata nespecializat"
+  },
+  {
+    "code": 4711,
+    "description": "Comer\u0163 cu am\u0103nuntul nespecializat, cu v\u00e2nzare predominant\u0103 de produse alimentare, b\u0103uturi \u015fi tutun"
+  },
+  {
+    "code": 4712,
+    "description": "Comer\u0163 cu am\u0103nuntul nespecializat, cu v\u00e2nzare predominant\u0103 de produse nealimentare"
+  },
+  {
+    "code": 4721,
+    "description": "Comer\u0163 cu am\u0103nuntul al fructelor \u015fi legumelor proaspete"
+  },
+  {
+    "code": 4722,
+    "description": "Comer\u0163 cu am\u0103nuntul al c\u0103rnii \u015fi al produselor din carne"
+  },
+  {
+    "code": 4723,
+    "description": "Comer\u0163 cu am\u0103nuntul al pe\u015ftelui, crustaceelor \u015fi molu\u015ftelor"
+  },
+  {
+    "code": 4724,
+    "description": "Comer\u0163 cu am\u0103nuntul al p\u00e2inii, produselor de patiserie \u015fi produselor zaharoase"
+  },
+  {
+    "code": 4725,
+    "description": "Comer\u0163 cu am\u0103nuntul al b\u0103uturilor"
+  },
+  {
+    "code": 4726,
+    "description": "Comer\u0163 cu am\u0103nuntul al produselor din tutun"
+  },
+  {
+    "code": 4727,
+    "description": "Comer\u0163 cu am\u0103nuntul al altor produse alimentare"
+  },
+  {
+    "code": 4730,
+    "description": "Comer\u0163 cu am\u0103nuntul al carburan\u0163ilor pentru autovehicule"
+  },
+  {
+    "code": 4740,
+    "description": "Comer\u0163 cu am\u0103nuntul al echipamentului informatic \u015fi de telecomunica\u0163ii"
+  },
+  {
+    "code": 4751,
+    "description": "Comer\u0163 cu am\u0103nuntul al textilelor"
+  },
+  {
+    "code": 4752,
+    "description": "Comer\u0163 cu am\u0103nuntul al articolelor de fier\u0103rie, al materialelor de construc\u021bii, al articolelor din sticl\u0103 \u015fi a celor pentru vopsit"
+  },
+  {
+    "code": 4753,
+    "description": "Comer\u0163 cu am\u0103nuntul al covoarelor, carpetelor, tapetelor \u015fi a altor acoperitoare de podea"
+  },
+  {
+    "code": 4754,
+    "description": "Comer\u0163 cu am\u0103nuntul al articolelor \u015fi aparatelor electrocasnice"
+  },
+  {
+    "code": 4755,
+    "description": "Comer\u0163 cu am\u0103nuntul al mobilei, al articolelor de iluminat \u015fi al altor articole de uz casnic n.c.a."
+  },
+  {
+    "code": 4761,
+    "description": "Comer\u0163 cu am\u0103nuntul al c\u0103r\u0163ilor"
+  },
+  {
+    "code": 4762,
+    "description": "Comer\u0163 cu am\u0103nuntul al ziarelor \u015fi articolelor de papet\u0103rie"
+  },
+  {
+    "code": 4763,
+    "description": "Comer\u0163 cu am\u0103nuntul al echipamentelor sportive"
+  },
+  {
+    "code": 4764,
+    "description": "Comer\u0163 cu am\u0103nuntul al jocurilor \u015fi juc\u0103riilor"
+  },
+  {
+    "code": 4769,
+    "description": "Comer\u0163 cu am\u0103nuntul de bunuri culturale \u015fi recreative n.c.a."
+  },
+  {
+    "code": 4771,
+    "description": "Comer\u0163 cu am\u0103nuntul al \u00eembr\u0103c\u0103mintei"
+  },
+  {
+    "code": 4772,
+    "description": "Comer\u0163 cu am\u0103nuntul al \u00eenc\u0103l\u0163\u0103mintei \u015fi articolelor din piele"
+  },
+  {
+    "code": 4773,
+    "description": "Comer\u0163 cu am\u0103nuntul al produselor farmaceutice"
+  },
+  {
+    "code": 4774,
+    "description": "Comer\u0163 cu am\u0103nuntul al articolelor medicale \u015fi ortopedice"
+  },
+  {
+    "code": 4775,
+    "description": "Comer\u0163 cu am\u0103nuntul al produselor cosmetice \u015fi de parfumerie"
+  },
+  {
+    "code": 4776,
+    "description": "Comer\u0163 cu am\u0103nuntul al florilor, plantelor \u015fi semin\u0163elor; comer\u0163 cu am\u0103nuntul al animalelor de companie \u015fi a hranei pentru acestea"
+  },
+  {
+    "code": 4777,
+    "description": "Comer\u0163 cu am\u0103nuntul al ceasurilor \u015fi bijuteriilor"
+  },
+  {
+    "code": 4778,
+    "description": "Comer\u0163 cu am\u0103nuntul al altor bunuri noi"
+  },
+  {
+    "code": 4779,
+    "description": "Comer\u0163 cu am\u0103nuntul al bunurilor de ocazie"
+  },
+  {
+    "code": 4781,
+    "description": "Comer\u0163 cu am\u0103nuntul al autovehiculelor"
+  },
+  {
+    "code": 4782,
+    "description": "Comer\u0163 cu am\u0103nuntul al pieselor \u015fi accesoriilor pentru autovehicule"
+  },
+  {
+    "code": 4783,
+    "description": "Comer\u0163 cu am\u0103nuntul al motocicletelor; comer\u021b cu am\u0103nuntul al pieselor \u015fi accesoriilor pentru motociclete"
+  },
+  {
+    "code": 4791,
+    "description": "Intermedieri \u00een comer\u0163ul cu am\u0103nuntul nespecializat"
+  },
+  {
+    "code": 4792,
+    "description": "Intermedieri \u00een comer\u0163ul cu am\u0103nuntul specializat"
+  },
+  {
+    "code": 4911,
+    "description": "Transport de pasageri pe c\u0103i ferate grele\/magistrale"
+  },
+  {
+    "code": 4912,
+    "description": "Alte transporturi de pasageri pe c\u0103i ferate u\u0219oare"
+  },
+  {
+    "code": 4920,
+    "description": "Transporturi de marf\u0103 pe calea ferat\u0103"
+  },
+  {
+    "code": 4931,
+    "description": "Transporturi terestre de pasageri, pe baz\u0103 de grafic"
+  },
+  {
+    "code": 4932,
+    "description": "Transporturi terestre de pasageri, ocazionale"
+  },
+  {
+    "code": 4933,
+    "description": "Transporturi terestre de pasageri cu vehicule cu \u0219ofer, pe baz\u0103 de comand\u0103"
+  },
+  {
+    "code": 4934,
+    "description": "Transporturi de pasageri cu funiculare, teleferice \u0219i schilifturi"
+  },
+  {
+    "code": 4939,
+    "description": "Alte transporturi terestre de c\u0103l\u0103tori n.c.a."
+  },
+  {
+    "code": 4941,
+    "description": "Transporturi rutiere de m\u0103rfuri"
+  },
+  {
+    "code": 4942,
+    "description": "Servicii de mutare"
+  },
+  {
+    "code": 4950,
+    "description": "Transporturi prin conducte"
+  },
+  {
+    "code": 5010,
+    "description": "Transporturi maritime \u015fi costiere de pasageri"
+  },
+  {
+    "code": 5020,
+    "description": "Transporturi maritime \u015fi costiere de marf\u0103"
+  },
+  {
+    "code": 5030,
+    "description": "Transportul de pasageri pe c\u0103i navigabile interioare"
+  },
+  {
+    "code": 5040,
+    "description": "Transportul de marf\u0103 pe c\u0103i navigabile interioare"
+  },
+  {
+    "code": 5110,
+    "description": "Transporturi aeriene de pasageri"
+  },
+  {
+    "code": 5121,
+    "description": "Transporturi aeriene de marf\u0103"
+  },
+  {
+    "code": 5122,
+    "description": "Transporturi spa\u0163iale"
+  },
+  {
+    "code": 5210,
+    "description": "Depozit\u0103ri"
+  },
+  {
+    "code": 5221,
+    "description": "Activit\u0103\u0163i de servicii anexe pentru transporturi terestre"
+  },
+  {
+    "code": 5222,
+    "description": "Activit\u0103\u0163i de servicii anexe transporturilor pe ap\u0103"
+  },
+  {
+    "code": 5223,
+    "description": "Activit\u0103\u0163i de servicii anexe transporturilor aeriene"
+  },
+  {
+    "code": 5224,
+    "description": "Manipul\u0103ri"
+  },
+  {
+    "code": 5225,
+    "description": "Activit\u0103\u021bi de servicii logistice pentru transporturi"
+  },
+  {
+    "code": 5226,
+    "description": "Alte activit\u0103\u0163i anexe transporturilor"
+  },
+  {
+    "code": 5231,
+    "description": "Activit\u0103\u0163i de intermediere pentru transportul de marf\u0103"
+  },
+  {
+    "code": 5232,
+    "description": "Activit\u0103\u0163i de intermediere pentru transportul de pasageri"
+  },
+  {
+    "code": 5310,
+    "description": "Activit\u0103\u0163i po\u015ftale desf\u0103\u015furate sub obligativitatea serviciului universal"
+  },
+  {
+    "code": 5320,
+    "description": "Alte activit\u0103\u0163i po\u015ftale \u015fi de curier"
+  },
+  {
+    "code": 5330,
+    "description": "Servicii de intermediere pentru activit\u0103\u0163i po\u015ftale \u015fi de curier"
+  },
+  {
+    "code": 5510,
+    "description": "Hoteluri \u015fi alte facilit\u0103\u0163i de cazare similare"
+  },
+  {
+    "code": 5520,
+    "description": "Facilit\u0103\u0163i de cazare pentru vacan\u0163e \u015fi perioade de scurt\u0103 durat\u0103"
+  },
+  {
+    "code": 5530,
+    "description": "Parcuri pentru rulote, campinguri \u015fi tabere"
+  },
+  {
+    "code": 5540,
+    "description": "Intermedieri pentru servicii de cazare"
+  },
+  {
+    "code": 5590,
+    "description": "Alte servicii de cazare"
+  },
+  {
+    "code": 5611,
+    "description": "Restaurante"
+  },
+  {
+    "code": 5612,
+    "description": "Activit\u0103\u021bi ale unit\u0103\u021bilor mobile de alimenta\u021bie"
+  },
+  {
+    "code": 5621,
+    "description": "Activit\u0103\u0163i de alimenta\u0163ie (catering) pentru evenimente"
+  },
+  {
+    "code": 5622,
+    "description": "Alte servicii de alimenta\u0163ie n.c.a."
+  },
+  {
+    "code": 5630,
+    "description": "Baruri \u015fi alte activit\u0103\u0163i de servire a b\u0103uturilor"
+  },
+  {
+    "code": 5640,
+    "description": "Intermedieri pentru servicii de alimenta\u021bie \u0219i de servire a b\u0103uturilor"
+  },
+  {
+    "code": 5811,
+    "description": "Activit\u0103\u0163i de editare a c\u0103r\u0163ilor"
+  },
+  {
+    "code": 5812,
+    "description": "Activit\u0103\u0163i de editare a ziarelor"
+  },
+  {
+    "code": 5813,
+    "description": "Activit\u0103\u0163i de editare a revistelor \u015fi periodicelor"
+  },
+  {
+    "code": 5819,
+    "description": "Alte activit\u0103\u0163i de editare"
+  },
+  {
+    "code": 5821,
+    "description": "Activit\u0103\u0163i de editare a jocurilor de calculator"
+  },
+  {
+    "code": 5829,
+    "description": "Activit\u0103\u0163i de editare a altor produse software"
+  },
+  {
+    "code": 5911,
+    "description": "Activit\u0103\u0163i de produc\u0163ie cinematografic\u0103, video \u015fi de programe de televiziune"
+  },
+  {
+    "code": 5912,
+    "description": "Activit\u0103\u0163i post-produc\u0163ie cinematografic\u0103, video \u015fi de programe de televiziune"
+  },
+  {
+    "code": 5913,
+    "description": "Activit\u0103\u0163i de distribu\u0163ie a filmelor cinematografice, video \u015fi a programelor de televiziune"
+  },
+  {
+    "code": 5914,
+    "description": "Proiec\u0163ia de filme cinematografice"
+  },
+  {
+    "code": 5920,
+    "description": "Activit\u0103\u0163i de realizare a \u00eenregistr\u0103rilor audio \u015fi activit\u0103\u0163i de editare muzical\u0103"
+  },
+  {
+    "code": 6010,
+    "description": "Activit\u0103\u0163i radiodifuziune, activit\u0103\u021bi de distribu\u021bie de programe audio"
+  },
+  {
+    "code": 6020,
+    "description": "Activit\u0103\u0163i de difuzare a programelor de televiziune, activit\u0103\u021bi de distribu\u021bie de programe video"
+  },
+  {
+    "code": 6031,
+    "description": "Activit\u0103\u0163i ale agen\u0163iilor de \u015ftiri"
+  },
+  {
+    "code": 6039,
+    "description": "Activit\u0103\u021bi de distribu\u021bie a altor con\u021binuturi"
+  },
+  {
+    "code": 6110,
+    "description": "Activit\u0103\u0163i de telecomunica\u0163ii prin re\u0163ele cu cablu, prin re\u021bele f\u0103r\u0103 cablu \u0219i prin satelit"
+  },
+  {
+    "code": 6120,
+    "description": "Activit\u0103\u021bi de rev\u00e2nzare a serviciilor de telecomunica\u021bii \u0219i servicii de intermediere pentru telecomunica\u021bii"
+  },
+  {
+    "code": 6190,
+    "description": "Alte activit\u0103\u0163i de telecomunica\u0163ii"
+  },
+  {
+    "code": 6210,
+    "description": "Activit\u0103\u0163i de realizare a soft-ului la comand\u0103 (software orientat client)"
+  },
+  {
+    "code": 6220,
+    "description": "Activit\u0103\u0163i de consultan\u0163\u0103 \u00een tehnologia informa\u0163iei \u0219i de management (gestiune \u015fi exploatare) a mijloacelor de calcul"
+  },
+  {
+    "code": 6290,
+    "description": "Alte activit\u0103\u0163i de servicii privind tehnologia informa\u0163iei"
+  },
+  {
+    "code": 6310,
+    "description": "Prelucrarea datelor, administrarea paginilor web \u015fi activit\u0103\u0163i conexe"
+  },
+  {
+    "code": 6391,
+    "description": "Activit\u0103\u0163i ale portalurilor web"
+  },
+  {
+    "code": 6392,
+    "description": "Alte activit\u0103\u0163i de servicii informa\u0163ionale n.c. a"
+  },
+  {
+    "code": 6411,
+    "description": "Activit\u0103\u0163i ale b\u0103ncii centrale (na\u0163ionale)"
+  },
+  {
+    "code": 6419,
+    "description": "Alte activit\u0103\u0163i de intermedieri monetare"
+  },
+  {
+    "code": 6421,
+    "description": "Activit\u0103\u0163i ale holding-urilor"
+  },
+  {
+    "code": 6422,
+    "description": "Activit\u0103\u0163i ale canalelor de finan\u021bare"
+  },
+  {
+    "code": 6431,
+    "description": "Activit\u0103\u021bi ale fondurilor de investi\u021bii de pe pia\u021ba monetar\u0103 \u0219i ale fondurilor de investi\u021bii din afara pie\u021bei monetare"
+  },
+  {
+    "code": 6432,
+    "description": "Fonduri mutuale \u015fi alte entit\u0103\u0163i financiare similare"
+  },
+  {
+    "code": 6491,
+    "description": "Leasing financiar"
+  },
+  {
+    "code": 6492,
+    "description": "Alte activit\u0103\u0163i de creditare"
+  },
+  {
+    "code": 6499,
+    "description": "Alte intermedieri financiare n.c.a., except\u00e2nd activit\u0103\u0163i de asigur\u0103ri \u015fi fonduri de pensii"
+  },
+  {
+    "code": 6511,
+    "description": "Activit\u0103\u0163i de asigur\u0103ri de via\u0163\u0103"
+  },
+  {
+    "code": 6512,
+    "description": "Alte activit\u0103\u0163i de asigur\u0103ri (except\u00e2nd asigur\u0103rile de via\u0163\u0103)"
+  },
+  {
+    "code": 6520,
+    "description": "Activit\u0103\u0163i de reasigurare"
+  },
+  {
+    "code": 6530,
+    "description": "Activit\u0103\u0163i ale fondurilor de pensii (cu excep\u0163ia celor din sistemul public de asigur\u0103ri sociale)"
+  },
+  {
+    "code": 6611,
+    "description": "Administrarea pie\u0163elor financiare"
+  },
+  {
+    "code": 6612,
+    "description": "Activit\u0103\u0163i de intermediere a tranzac\u0163iilor financiare"
+  },
+  {
+    "code": 6619,
+    "description": "Activit\u0103\u0163i auxiliare intermedierilor financiare, except\u00e2nd activit\u0103\u0163i de asigur\u0103ri \u015fi fonduri de pensii"
+  },
+  {
+    "code": 6621,
+    "description": "Activit\u0103\u0163i de evaluare a riscului de asigurare \u015fi a pagubelor"
+  },
+  {
+    "code": 6622,
+    "description": "Activit\u0103\u0163i ale agen\u0163ilor \u015fi broker-ilor de asigur\u0103ri"
+  },
+  {
+    "code": 6629,
+    "description": "Alte activit\u0103\u0163i auxiliare de asigur\u0103ri \u015fi fonduri de pensii"
+  },
+  {
+    "code": 6630,
+    "description": "Activit\u0103\u0163i de administrare a fondurilor"
+  },
+  {
+    "code": 6811,
+    "description": "Cump\u0103rarea \u015fi v\u00e2nzarea de bunuri imobiliare proprii"
+  },
+  {
+    "code": 6812,
+    "description": "Dezvoltare (promovare) imobiliar\u0103"
+  },
+  {
+    "code": 6820,
+    "description": "\u00cenchirierea \u015fi sub\u00eenchirierea bunurilor imobiliare proprii sau \u00eenchiriate"
+  },
+  {
+    "code": 6831,
+    "description": "Servicii de intermediere a tranzac\u021biilor imobiliare"
+  },
+  {
+    "code": 6832,
+    "description": "Alte activit\u0103\u021bi pentru tranzac\u021bii imobiliare pe baz\u0103 de comision sau contract"
+  },
+  {
+    "code": 6910,
+    "description": "Activit\u0103\u0163i juridice"
+  },
+  {
+    "code": 6920,
+    "description": "Activit\u0103\u0163i de contabilitate \u015fi audit financiar; consultan\u0163\u0103 \u00een domeniul fiscal"
+  },
+  {
+    "code": 7010,
+    "description": "Activit\u0103\u0163i ale direc\u0163iilor(centralelor), birourilor administrative centralizate"
+  },
+  {
+    "code": 7020,
+    "description": "Activit\u0103\u0163i de consultan\u0163\u0103 \u00een afaceri \u0219i management"
+  },
+  {
+    "code": 7111,
+    "description": "Activit\u0103\u0163i de arhitectur\u0103"
+  },
+  {
+    "code": 7112,
+    "description": "Activit\u0103\u0163i de inginerie \u015fi consultan\u0163\u0103 tehnic\u0103 legate de acestea"
+  },
+  {
+    "code": 7120,
+    "description": "Activit\u0103\u0163i de test\u0103ri \u015fi analize tehnice"
+  },
+  {
+    "code": 7210,
+    "description": "Cercetare-dezvoltare \u00een \u015ftiin\u0163e naturale \u015fi inginerie"
+  },
+  {
+    "code": 7220,
+    "description": "Cercetare-dezvoltare \u00een \u015ftiin\u0163e sociale \u015fi umaniste"
+  },
+  {
+    "code": 7311,
+    "description": "Activit\u0103\u0163i ale agen\u0163iilor de publicitate"
+  },
+  {
+    "code": 7312,
+    "description": "Servicii de reprezentare media"
+  },
+  {
+    "code": 7320,
+    "description": "Activit\u0103\u0163i de studiere a pie\u0163ei \u015fi de sondare a opiniei publice"
+  },
+  {
+    "code": 7330,
+    "description": "Activit\u0103\u0163i \u00een domeniul rela\u0163iilor publice \u015fi al comunic\u0103rii"
+  },
+  {
+    "code": 7411,
+    "description": "Activit\u0103\u021bi de design industrial \u0219i vestimentar"
+  },
+  {
+    "code": 7412,
+    "description": "Design grafic \u0219i activit\u0103\u021bi de comunicare vizual\u0103"
+  },
+  {
+    "code": 7413,
+    "description": "Activit\u0103\u021bi de design de interior"
+  },
+  {
+    "code": 7414,
+    "description": "Alte activit\u0103\u0163i de design specializat"
+  },
+  {
+    "code": 7420,
+    "description": "Activit\u0103\u0163i fotografice"
+  },
+  {
+    "code": 7430,
+    "description": "Activit\u0103\u0163i de traducere scris\u0103 \u015fi oral\u0103 (interpre\u0163i)"
+  },
+  {
+    "code": 7491,
+    "description": "Activit\u0103\u021bi de brokeraj \u00een materie de brevete \u0219i servicii de marketing"
+  },
+  {
+    "code": 7499,
+    "description": "Alte activit\u0103\u0163i profesionale, stiin\u0163ifice \u015fi tehnice n.c.a."
+  },
+  {
+    "code": 7500,
+    "description": "Activit\u0103\u0163i veterinare"
+  },
+  {
+    "code": 7711,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu autoturisme \u015fi autovehicule rutiere u\u015foare"
+  },
+  {
+    "code": 7712,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu autovehicule rutiere grele"
+  },
+  {
+    "code": 7721,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu bunuri recrea\u0163ionale \u015fi echipament sportiv"
+  },
+  {
+    "code": 7722,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu alte bunuri personale \u015fi gospod\u0103re\u015fti n.c.a."
+  },
+  {
+    "code": 7731,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu ma\u015fini \u015fi echipamente agricole"
+  },
+  {
+    "code": 7732,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu ma\u015fini \u015fi echipamente pentru construc\u0163ii"
+  },
+  {
+    "code": 7733,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu ma\u015fini \u015fi echipamente de birou (inclusiv calculatoare)"
+  },
+  {
+    "code": 7734,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu echipamente de transport pe ap\u0103"
+  },
+  {
+    "code": 7735,
+    "description": "Activit\u0103\u0163i de \u00eenchiriere \u015fi leasing cu echipamente de transport aerian"
+  },
+  {
+    "code": 7739,
+    "description": "Activit\u0103\u0163i de \u00eenchirierea \u015fi leasing cu alte ma\u015fini, echipamente \u015fi bunuri tangibile n.c.a."
+  },
+  {
+    "code": 7740,
+    "description": "Leasing cu bunuri intangibile (cu excep\u021bia lucr\u0103rilor care fac obiectul drepturilor de autor)"
+  },
+  {
+    "code": 7751,
+    "description": "Servicii de intermediere pentru \u00eenchirierea \u0219i leasingul autoturismelor, autorulotelor \u0219i remorcilor"
+  },
+  {
+    "code": 7752,
+    "description": "Servicii de intermediere pentru \u00eenchirierea \u0219i leasingul altor bunuri corporale \u0219i bunuri intangibile (except\u00e2nd financiare)"
+  },
+  {
+    "code": 7810,
+    "description": "Activit\u0103\u0163i ale agen\u0163iilor de plasare a for\u0163ei de munc\u0103"
+  },
+  {
+    "code": 7820,
+    "description": "Activit\u0103\u021bi ale agen\u021biilor de plasare temporar\u0103 a for\u021bei de munc\u0103 \u0219i furnizarea altor resurse umane"
+  },
+  {
+    "code": 7911,
+    "description": "Activit\u0103\u0163i ale agen\u0163iilor turistice"
+  },
+  {
+    "code": 7912,
+    "description": "Activit\u0103\u0163i ale tur-operatorilor"
+  },
+  {
+    "code": 7990,
+    "description": "Alte servicii de rezervare \u015fi asisten\u0163\u0103 turistic\u0103"
+  },
+  {
+    "code": 8001,
+    "description": "Activit\u0103\u021bi de investiga\u021bii \u0219i servicii private de protec\u021bie"
+  },
+  {
+    "code": 8009,
+    "description": "Alte activit\u0103\u021bi de protec\u021bie n.c.a."
+  },
+  {
+    "code": 8110,
+    "description": "Activit\u0103\u0163i de servicii suport combinate"
+  },
+  {
+    "code": 8121,
+    "description": "Activit\u0103\u0163i generale de cur\u0103\u0163enie a cl\u0103dirilor"
+  },
+  {
+    "code": 8122,
+    "description": "Activit\u0103\u0163i specializate de cur\u0103\u0163enie"
+  },
+  {
+    "code": 8123,
+    "description": "Alte activit\u0103\u0163i de cur\u0103\u0163enie"
+  },
+  {
+    "code": 8130,
+    "description": "Activit\u0103\u0163i de \u00eente\u0163inere peisagistic\u0103"
+  },
+  {
+    "code": 8210,
+    "description": "Activit\u0103\u0163i de secretariat \u015fi servicii suport"
+  },
+  {
+    "code": 8220,
+    "description": "Activit\u0103\u0163i ale centrelor de intermediere telefonic\u0103 (call center)"
+  },
+  {
+    "code": 8230,
+    "description": "Activit\u0103\u0163i de organizare a expozi\u0163iilor, t\u00e2rgurilor \u015fi congreselor"
+  },
+  {
+    "code": 8240,
+    "description": "Activit\u0103\u021bi de intermediere pentru servicii suport pentru \u00eentreprinderi n.c.a."
+  },
+  {
+    "code": 8291,
+    "description": "Activit\u0103\u0163i ale agen\u0163iilor de colectare \u015fi a birourilor (oficiilor) de raportare a creditului"
+  },
+  {
+    "code": 8292,
+    "description": "Activit\u0103\u0163i de ambalare"
+  },
+  {
+    "code": 8299,
+    "description": "Alte activit\u0103\u0163i de servicii suport pentru \u00eentreprinderi n.c.a."
+  },
+  {
+    "code": 8411,
+    "description": "Activit\u0103\u021bi de administra\u0163ie public\u0103 general\u0103"
+  },
+  {
+    "code": 8412,
+    "description": "Reglementarea activit\u0103\u0163ilor organismelor care presteaz\u0103 servicii \u00een domeniul \u00eengrijirii s\u0103n\u0103t\u0103\u0163ii, \u00eenv\u0103\u0163\u0103m\u00e2ntului, culturii \u015fi al altor activit\u0103\u0163i sociale, except\u00e2nd protec\u0163ia social\u0103"
+  },
+  {
+    "code": 8413,
+    "description": "Reglementarea \u015fi eficientizarea activit\u0103\u0163ilor economice"
+  },
+  {
+    "code": 8421,
+    "description": "Activit\u0103\u0163i de afaceri externe"
+  },
+  {
+    "code": 8422,
+    "description": "Activit\u0103\u0163i de ap\u0103rare na\u0163ional\u0103"
+  },
+  {
+    "code": 8423,
+    "description": "Activit\u0103\u0163i de justi\u0163ie"
+  },
+  {
+    "code": 8424,
+    "description": "Activit\u0103\u0163i de ordine public\u0103 \u015fi de protec\u0163ie civil\u0103"
+  },
+  {
+    "code": 8425,
+    "description": "Activit\u0103\u0163i de lupt\u0103 \u00eempotriva incendiilor \u015fi de prevenire a acestora"
+  },
+  {
+    "code": 8430,
+    "description": "Activit\u0103\u0163i de protec\u0163ie social\u0103 obligatorie"
+  },
+  {
+    "code": 8510,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt pre\u015fcolar"
+  },
+  {
+    "code": 8520,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt primar"
+  },
+  {
+    "code": 8531,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt secundar general"
+  },
+  {
+    "code": 8532,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt secundar, tehnic sau profesional"
+  },
+  {
+    "code": 8533,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt post-secundar, non-universitar"
+  },
+  {
+    "code": 8540,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt superior universitar"
+  },
+  {
+    "code": 8551,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt \u00een domeniul sportiv \u015fi recrea\u0163ional"
+  },
+  {
+    "code": 8552,
+    "description": "\u00cenv\u0103\u0163\u0103m\u00e2nt \u00een domeniul cultural (muzic\u0103, teatru, dans, arte plastice, etc.)"
+  },
+  {
+    "code": 8553,
+    "description": "\u015ecoli de conducere (pilotaj)"
+  },
+  {
+    "code": 8559,
+    "description": "Alte forme de \u00eenv\u0103\u0163\u0103m\u00e2nt n.c.a."
+  },
+  {
+    "code": 8561,
+    "description": "Activit\u0103\u021bi de intermediere pentru cursuri \u0219i tutori (\u00eendrum\u0103tori, profesori)"
+  },
+  {
+    "code": 8569,
+    "description": "Activit\u0103\u0163i de servicii suport pentru \u00eenv\u0103\u0163\u0103m\u00e2nt"
+  },
+  {
+    "code": 8610,
+    "description": "Activit\u0103\u0163i de asisten\u0163\u0103 spitaliceasc\u0103"
+  },
+  {
+    "code": 8621,
+    "description": "Activit\u0103\u0163i de asisten\u0163\u0103 medical\u0103 general\u0103"
+  },
+  {
+    "code": 8622,
+    "description": "Activit\u0103\u0163i de asisten\u0163\u0103 medical\u0103 specializat\u0103"
+  },
+  {
+    "code": 8623,
+    "description": "Activit\u0103\u0163i de asisten\u0163\u0103 stomatologic\u0103"
+  },
+  {
+    "code": 8691,
+    "description": "Servicii de diagnostic imagistic \u0219i activit\u0103\u021bi ale laboratoarelor medicale"
+  },
+  {
+    "code": 8692,
+    "description": "Transportul pacien\u021bilor cu ambulan\u021ba"
+  },
+  {
+    "code": 8693,
+    "description": "Activit\u0103\u021bi ale psihologilor \u0219i psihoterapeu\u021bilor, cu excep\u021bia medicilor"
+  },
+  {
+    "code": 8694,
+    "description": "Activit\u0103\u021bi ale infirmierelor \u0219i moa\u0219elor"
+  },
+  {
+    "code": 8695,
+    "description": "Activit\u0103\u021bi de fizioterapie"
+  },
+  {
+    "code": 8696,
+    "description": "Activit\u0103\u021bi de medicin\u0103 tradi\u021bional\u0103, complementar\u0103 \u0219i alternativ\u0103"
+  },
+  {
+    "code": 8697,
+    "description": "Servicii de intermediere pentru servicii medicale, stomatologice \u0219i pentru alte servicii referitoare la s\u0103n\u0103tatea uman\u0103"
+  },
+  {
+    "code": 8699,
+    "description": "Alte activit\u0103\u0163i referitoare la s\u0103n\u0103tatea uman\u0103 n.c.a."
+  },
+  {
+    "code": 8710,
+    "description": "Activit\u0103\u0163i ale centrelor de \u00eengrijire medical\u0103"
+  },
+  {
+    "code": 8720,
+    "description": "Activit\u0103\u0163i ale centrelor de recuperare pshic\u0103 \u015fi de dezintoxicare, exclusiv spitale"
+  },
+  {
+    "code": 8730,
+    "description": "Activit\u0103\u0163i ale c\u0103minelor de b\u0103tr\u00e2ni \u015fi ale c\u0103minelor pentru persoane cu dizabilit\u0103\u021bi aflate \u00een incapacitate de a se \u00eengriji singure"
+  },
+  {
+    "code": 8791,
+    "description": "Activit\u0103\u021bi de intermediere pentru servicii de \u00eengrijire la domiciliu"
+  },
+  {
+    "code": 8799,
+    "description": "Alte activit\u0103\u0163i de asisten\u0163\u0103 social\u0103, cu cazare n.c.a."
+  },
+  {
+    "code": 8810,
+    "description": "Activit\u0103\u0163i de asisten\u0163\u0103 social\u0103, f\u0103r\u0103 cazare, pentru b\u0103tr\u00e2ni \u015fi pentru persoane cu dizabilit\u0103\u021bi aflate \u00een incapacitate de a se \u00eengriji singure"
+  },
+  {
+    "code": 8891,
+    "description": "Activit\u0103\u0163i de \u00eengrijire zilnic\u0103 pentru copii"
+  },
+  {
+    "code": 8899,
+    "description": "Alte activit\u0103\u0163i de asisten\u0163\u0103 social\u0103, f\u0103r\u0103 cazare, n.c.a."
+  },
+  {
+    "code": 9011,
+    "description": "Activit\u0103\u021bi de crea\u021bie literar\u0103 \u0219i compozi\u021bie muzical\u0103"
+  },
+  {
+    "code": 9012,
+    "description": "Activit\u0103\u021bi de crea\u021bie \u00een domeniul artelor vizuale"
+  },
+  {
+    "code": 9013,
+    "description": "Alte activit\u0103\u021bi de crea\u021bie artistic\u0103"
+  },
+  {
+    "code": 9020,
+    "description": "Activit\u0103\u0163i de interpretare artistic\u0103 (spectacole)"
+  },
+  {
+    "code": 9031,
+    "description": "Activit\u0103\u0163i de gestionare a s\u0103lilor \u0219i amplasamentelor de spectacole"
+  },
+  {
+    "code": 9039,
+    "description": "Alte activit\u0103\u0163i suport pentru crea\u021bie \u0219i interpretare artistic\u0103"
+  },
+  {
+    "code": 9111,
+    "description": "Activit\u0103\u0163i ale bibliotecilor"
+  },
+  {
+    "code": 9112,
+    "description": "Activit\u0103\u0163i ale arhivelor"
+  },
+  {
+    "code": 9121,
+    "description": "Activit\u0103\u021bi ale muzeelor \u0219i colec\u021biilor"
+  },
+  {
+    "code": 9122,
+    "description": "Activit\u0103\u021bi ale siturilor \u0219i monumentelor istorice"
+  },
+  {
+    "code": 9130,
+    "description": "Activit\u0103\u021bi de conservare, restaurare \u0219i alte activit\u0103\u021bi suport pentru patrimoniul cultural"
+  },
+  {
+    "code": 9141,
+    "description": "Activit\u0103\u0163i ale gr\u0103dinilor botanice \u0219i zoologice"
+  },
+  {
+    "code": 9142,
+    "description": "Activit\u0103\u0163i ale rezerva\u0163iilor naturale"
+  },
+  {
+    "code": 9200,
+    "description": "Activit\u0103\u0163i de jocuri de noroc \u015fi pariuri"
+  },
+  {
+    "code": 9311,
+    "description": "Activit\u0103\u0163i ale bazelor sportive"
+  },
+  {
+    "code": 9312,
+    "description": "Activit\u0103\u0163i ale cluburilor sportive"
+  },
+  {
+    "code": 9313,
+    "description": "Activit\u0103\u0163i ale centrelor de fitness"
+  },
+  {
+    "code": 9319,
+    "description": "Alte activit\u0103\u0163i sportive n.c.a"
+  },
+  {
+    "code": 9321,
+    "description": "Activit\u0103\u021bi ale parcurilor tematice \u0219i de distrac\u0163ii"
+  },
+  {
+    "code": 9329,
+    "description": "Alte activit\u0103\u0163i recreative \u015fi distractive n.c.a."
+  },
+  {
+    "code": 9411,
+    "description": "Activit\u0103\u0163i ale organiza\u0163iilor economice \u015fi patronale"
+  },
+  {
+    "code": 9412,
+    "description": "Activit\u0103\u0163i ale organiza\u0163iilor profesionale"
+  },
+  {
+    "code": 9420,
+    "description": "Activit\u0103\u0163i ale sindicatelor salaria\u0163ilor"
+  },
+  {
+    "code": 9491,
+    "description": "Activit\u0103\u0163i ale organiza\u0163iilor religioase"
+  },
+  {
+    "code": 9492,
+    "description": "Activit\u0103\u0163i ale organiza\u0163iilor politice"
+  },
+  {
+    "code": 9499,
+    "description": "Activit\u0103\u0163i ale altor organiza\u0163ii n.c.a."
+  },
+  {
+    "code": 9510,
+    "description": "Repararea \u0219i \u00eentre\u021binerea calculatoarelor \u015fi a echipamentelor de comunica\u0163ii"
+  },
+  {
+    "code": 9521,
+    "description": "Repararea \u0219i \u00eentre\u021binerea aparatelor electronice de uz casnic"
+  },
+  {
+    "code": 9522,
+    "description": "Repararea \u0219i \u00eentre\u021binerea dispozitivelor de uz gospod\u0103resc \u015fi a echipamentelor pentru cas\u0103 \u015fi gr\u0103din\u0103"
+  },
+  {
+    "code": 9523,
+    "description": "Repararea \u0219i \u00eentre\u021binerea \u00eenc\u0103l\u0163\u0103mintei \u015fi a articolelor din piele"
+  },
+  {
+    "code": 9524,
+    "description": "Repararea \u0219i \u00eentre\u021binerea mobilei \u015fi a furniturilor casnice"
+  },
+  {
+    "code": 9525,
+    "description": "Repararea \u0219i \u00eentre\u021binerea ceasurilor \u015fi a bijuteriilor"
+  },
+  {
+    "code": 9529,
+    "description": "Repararea \u0219i \u00eentre\u021binerea articolelor de uz personal \u015fi gospod\u0103resc n.c.a."
+  },
+  {
+    "code": 9531,
+    "description": "Repararea \u0219i \u00eentre\u021binerea autovehiculelor"
+  },
+  {
+    "code": 9532,
+    "description": "Repararea \u0219i \u00eentre\u021binerea motocicletelor"
+  },
+  {
+    "code": 9540,
+    "description": "Servicii de intermediere pentru repararea \u0219i \u00eentre\u021binerea calculatoarelor, a articolelor personale \u0219i de uz gospod\u0103resc, a autovehiculelor \u0219i motocicletelor"
+  },
+  {
+    "code": 9610,
+    "description": "Sp\u0103larea \u015fi cur\u0103\u0163area articolelor textile \u015fi a produselor din blan\u0103"
+  },
+  {
+    "code": 9621,
+    "description": "Activit\u0103\u021bi de coafur\u0103 \u015fi frizerie"
+  },
+  {
+    "code": 9622,
+    "description": "Activit\u0103\u021bi de tratament \u0219i \u00eenfrumuse\u021bare"
+  },
+  {
+    "code": 9623,
+    "description": "Activit\u0103\u021bi ale centrelor spa, saunelor \u0219i bailor de abur"
+  },
+  {
+    "code": 9630,
+    "description": "Activit\u0103\u0163i de pompe funebre \u015fi similare"
+  },
+  {
+    "code": 9640,
+    "description": "Activit\u0103\u021bi de intermediere pentru servicii personale"
+  },
+  {
+    "code": 9691,
+    "description": "Activit\u0103\u021bi de servicii personale la domiciliu"
+  },
+  {
+    "code": 9699,
+    "description": "Alte servicii personale n.c.a."
+  },
+  {
+    "code": 9700,
+    "description": "Activit\u0103\u0163i ale gospod\u0103riilor private \u00een calitate de angajator de personal casnic"
+  },
+  {
+    "code": 9810,
+    "description": "Activit\u0103\u0163i ale gospod\u0103riilor private de producere de bunuri destinate consumului propriu"
+  },
+  {
+    "code": 9820,
+    "description": "Activit\u0103\u0163i ale gospod\u0103riilor private de producere de servicii pentru scopuri proprii"
+  },
+  {
+    "code": 9900,
+    "description": "Activit\u0103\u0163i ale organiza\u0163iilor \u015fi organismelor extrateritoriale"
+  },
+  {
+    "code": "0111",
+    "description": "Cultivarea cerealelor (excluz\u00e2nd orezul), plantelor leguminoase \u015fi a plantelor oleaginoase"
+  },
+  {
+    "code": "0112",
+    "description": "Cultivarea orezului"
+  },
+  {
+    "code": "0113",
+    "description": "Cultivarea legumelor \u015fi a pepenilor, a r\u0103d\u0103cinoaselor \u015fi tuberculiferelor"
+  },
+  {
+    "code": "0114",
+    "description": "Cultivarea trestiei de zah\u0103r"
+  },
+  {
+    "code": "0115",
+    "description": "Cultivarea tutunului"
+  },
+  {
+    "code": "0116",
+    "description": "Cultivarea plantelor pentru fibre textile"
+  },
+  {
+    "code": "0119",
+    "description": "Cultivarea altor plante din culturi nepermanente"
+  },
+  {
+    "code": "0121",
+    "description": "Cultivarea strugurilor"
+  },
+  {
+    "code": "0122",
+    "description": "Cultivarea fructelor tropicale \u015fi subtropicale"
+  },
+  {
+    "code": "0123",
+    "description": "Cultivarea fructelor citrice"
+  },
+  {
+    "code": "0124",
+    "description": "Cultivarea fructelor semin\u0163oase \u015fi s\u00e2mburoase"
+  },
+  {
+    "code": "0125",
+    "description": "Cultivarea altor pomi fructiferi, a arbu\u015ftilor fructiferi, c\u0103p\u015funilor \u015fi a nuciferelor"
+  },
+  {
+    "code": "0126",
+    "description": "Cultivarea fructelor oleaginoase"
+  },
+  {
+    "code": "0127",
+    "description": "Cultivarea plantelor pentru prepararea b\u0103uturilor"
+  },
+  {
+    "code": "0128",
+    "description": "Cultivarea condimentelor, plantelor aromatice, medicinale \u015fi a plantelor de uz farmaceutic"
+  },
+  {
+    "code": "0129",
+    "description": "Cultivarea altor plante permanente"
+  },
+  {
+    "code": "0130",
+    "description": "Cultivarea plantelor pentru \u00eenmul\u0163ire"
+  },
+  {
+    "code": "0141",
+    "description": "Cre\u015fterea bovinelor de lapte"
+  },
+  {
+    "code": "0142",
+    "description": "Cre\u015fterea altor bovine"
+  },
+  {
+    "code": "0143",
+    "description": "Cre\u015fterea cailor \u015fi a altor cabaline"
+  },
+  {
+    "code": "0144",
+    "description": "Cre\u015fterea c\u0103milelor \u015fi a camelidelor"
+  },
+  {
+    "code": "0145",
+    "description": "Cre\u015fterea ovinelor \u015fi caprinelor"
+  },
+  {
+    "code": "0146",
+    "description": "Cre\u015fterea porcinelor"
+  },
+  {
+    "code": "0147",
+    "description": "Cre\u015fterea p\u0103s\u0103rilor"
+  },
+  {
+    "code": "0148",
+    "description": "Cre\u015fterea altor animale"
+  },
+  {
+    "code": "0150",
+    "description": "Activit\u0103\u0163i \u00een ferme mixte (cultura vegetal\u0103 combinat\u0103 cu cre\u015fterea animalelor)"
+  },
+  {
+    "code": "0161",
+    "description": "Activit\u0103\u0163i auxiliare pentru produc\u0163ia vegetal\u0103"
+  },
+  {
+    "code": "0162",
+    "description": "Activit\u0103\u0163i auxiliare pentru cre\u015fterea animalelor"
+  },
+  {
+    "code": "0163",
+    "description": "Activit\u0103\u0163i dup\u0103 recoltare \u0219i preg\u0103tirea semin\u021belor"
+  }
+]
